@@ -1,5 +1,5 @@
 package com.qinhan.objclone.shallow;
-
+//为该类添加一些注释
 public class Address {
     private String province;
     private String street;
