@@ -1,5 +1,5 @@
-package com.qinhan.objclone.shallow;
-
+﻿package com.qinhan.objclone.shallow;
+//添加一些注释
 public class AppShallow {
 /**
  * 浅复制测试
