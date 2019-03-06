@@ -1,10 +1,10 @@
 package com.qinhan.objclone.shallow;
-
+//添加一些注释   这是很有意思的注释
 public class Person implements Cloneable {
     private int age;
     private String name;
     private Address address;
-
+	
     public Person(int age, String name, Address address) {
         this.age = age;
         this.name = name;
